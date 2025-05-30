@@ -1,0 +1,10 @@
+C:\Users\sergio.guardado\Desktop\listview2\listview2\bin\Debug\listview2.exe.config
+C:\Users\sergio.guardado\Desktop\listview2\listview2\bin\Debug\listview2.exe
+C:\Users\sergio.guardado\Desktop\listview2\listview2\bin\Debug\listview2.pdb
+C:\Users\sergio.guardado\Desktop\listview2\listview2\obj\Debug\listview2.csproj.AssemblyReference.cache
+C:\Users\sergio.guardado\Desktop\listview2\listview2\obj\Debug\listview2.rbtfrutas.resources
+C:\Users\sergio.guardado\Desktop\listview2\listview2\obj\Debug\listview2.Properties.Resources.resources
+C:\Users\sergio.guardado\Desktop\listview2\listview2\obj\Debug\listview2.csproj.GenerateResource.cache
+C:\Users\sergio.guardado\Desktop\listview2\listview2\obj\Debug\listview2.csproj.CoreCompileInputs.cache
+C:\Users\sergio.guardado\Desktop\listview2\listview2\obj\Debug\listview2.exe
+C:\Users\sergio.guardado\Desktop\listview2\listview2\obj\Debug\listview2.pdb

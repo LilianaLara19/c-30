@@ -1,0 +1,42 @@
+C:\Users\PROBOOK 650 G1\Desktop\ITEC\Programacion\C#29\Proyecto C#29\bin\Debug\Proyecto C#29.exe.config
+C:\Users\PROBOOK 650 G1\Desktop\ITEC\Programacion\C#29\Proyecto C#29\bin\Debug\Proyecto C#29.exe
+C:\Users\PROBOOK 650 G1\Desktop\ITEC\Programacion\C#29\Proyecto C#29\bin\Debug\Proyecto C#29.pdb
+C:\Users\PROBOOK 650 G1\Desktop\ITEC\Programacion\C#29\Proyecto C#29\obj\Debug\Proyecto C#29.csproj.AssemblyReference.cache
+C:\Users\PROBOOK 650 G1\Desktop\ITEC\Programacion\C#29\Proyecto C#29\obj\Debug\Proyecto_C_29.Form1.resources
+C:\Users\PROBOOK 650 G1\Desktop\ITEC\Programacion\C#29\Proyecto C#29\obj\Debug\Proyecto_C_29.Properties.Resources.resources
+C:\Users\PROBOOK 650 G1\Desktop\ITEC\Programacion\C#29\Proyecto C#29\obj\Debug\Proyecto C#29.csproj.GenerateResource.cache
+C:\Users\PROBOOK 650 G1\Desktop\ITEC\Programacion\C#29\Proyecto C#29\obj\Debug\Proyecto C#29.csproj.CoreCompileInputs.cache
+C:\Users\PROBOOK 650 G1\Desktop\ITEC\Programacion\C#29\Proyecto C#29\obj\Debug\Proyecto C#29.exe
+C:\Users\PROBOOK 650 G1\Desktop\ITEC\Programacion\C#29\Proyecto C#29\obj\Debug\Proyecto C#29.pdb
+E:\C#29\Proyecto C#29\bin\Debug\Proyecto C#29.exe.config
+E:\C#29\Proyecto C#29\bin\Debug\Proyecto C#29.exe
+E:\C#29\Proyecto C#29\bin\Debug\Proyecto C#29.pdb
+E:\C#29\Proyecto C#29\obj\Debug\Proyecto C#29.csproj.AssemblyReference.cache
+E:\C#29\Proyecto C#29\obj\Debug\Proyecto_C_29.Form1.resources
+E:\C#29\Proyecto C#29\obj\Debug\Proyecto_C_29.Properties.Resources.resources
+E:\C#29\Proyecto C#29\obj\Debug\Proyecto C#29.csproj.GenerateResource.cache
+E:\C#29\Proyecto C#29\obj\Debug\Proyecto C#29.csproj.CoreCompileInputs.cache
+E:\C#29\Proyecto C#29\obj\Debug\Proyecto C#29.exe
+E:\C#29\Proyecto C#29\obj\Debug\Proyecto C#29.pdb
+C:\Users\marco\Downloads\C-29-main\C#29\Proyecto C#29\bin\Debug\Proyecto C#29.exe.config
+C:\Users\marco\Downloads\C-29-main\C#29\Proyecto C#29\bin\Debug\Proyecto C#29.exe
+C:\Users\marco\Downloads\C-29-main\C#29\Proyecto C#29\bin\Debug\Proyecto C#29.pdb
+C:\Users\marco\Downloads\C-29-main\C#29\Proyecto C#29\obj\Debug\Proyecto C#29.csproj.AssemblyReference.cache
+C:\Users\marco\Downloads\C-29-main\C#29\Proyecto C#29\obj\Debug\Proyecto C#29.exe.config
+C:\Users\marco\Downloads\C-29-main\C#29\Proyecto C#29\obj\Debug\Proyecto_C_29.Form1.resources
+C:\Users\marco\Downloads\C-29-main\C#29\Proyecto C#29\obj\Debug\Proyecto_C_29.Properties.Resources.resources
+C:\Users\marco\Downloads\C-29-main\C#29\Proyecto C#29\obj\Debug\Proyecto C#29.csproj.GenerateResource.cache
+C:\Users\marco\Downloads\C-29-main\C#29\Proyecto C#29\obj\Debug\Proyecto C#29.csproj.CoreCompileInputs.cache
+C:\Users\marco\Downloads\C-29-main\C#29\Proyecto C#29\obj\Debug\Proyecto C#29.exe
+C:\Users\marco\Downloads\C-29-main\C#29\Proyecto C#29\obj\Debug\Proyecto C#29.pdb
+C:\Users\marco\OneDrive\Desktop\liliana\c#30\C#29\Proyecto C#29\bin\Debug\Proyecto C#29.exe.config
+C:\Users\marco\OneDrive\Desktop\liliana\c#30\C#29\Proyecto C#29\bin\Debug\Proyecto C#29.exe
+C:\Users\marco\OneDrive\Desktop\liliana\c#30\C#29\Proyecto C#29\bin\Debug\Proyecto C#29.pdb
+C:\Users\marco\OneDrive\Desktop\liliana\c#30\C#29\Proyecto C#29\obj\Debug\Proyecto C#29.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\Desktop\liliana\c#30\C#29\Proyecto C#29\obj\Debug\Proyecto C#29.exe.config
+C:\Users\marco\OneDrive\Desktop\liliana\c#30\C#29\Proyecto C#29\obj\Debug\Proyecto_C_29.Form1.resources
+C:\Users\marco\OneDrive\Desktop\liliana\c#30\C#29\Proyecto C#29\obj\Debug\Proyecto_C_29.Properties.Resources.resources
+C:\Users\marco\OneDrive\Desktop\liliana\c#30\C#29\Proyecto C#29\obj\Debug\Proyecto C#29.csproj.GenerateResource.cache
+C:\Users\marco\OneDrive\Desktop\liliana\c#30\C#29\Proyecto C#29\obj\Debug\Proyecto C#29.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Desktop\liliana\c#30\C#29\Proyecto C#29\obj\Debug\Proyecto C#29.exe
+C:\Users\marco\OneDrive\Desktop\liliana\c#30\C#29\Proyecto C#29\obj\Debug\Proyecto C#29.pdb
